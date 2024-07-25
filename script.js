@@ -1,7 +1,7 @@
 
     function sim() {
         alert("Você aceitou namorar comigo! :)");
-        location.href = "https://music.youtube.com/watch?v=z_kG63k8fqY";
+        location.href = "https://music.youtube.com/watch?v=73Zy0LVkDhQ&si=JBleI9SDRxzNX8pT";
     }
 
     function desvia(btn) {
